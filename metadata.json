@@ -1,0 +1,8 @@
+{
+  "name": "EZ-Shift",
+  "description": "On-demand healthcare staffing platform connecting Home Health Aides with local agency shifts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
